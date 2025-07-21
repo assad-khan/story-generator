@@ -1,0 +1,7 @@
+crewai 
+TTS 
+diffusers 
+crewai_tools 
+streamlit
+moviepy
+torch
