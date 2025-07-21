@@ -92,7 +92,7 @@ This Streamlit app generates engaging children's stories complete with **realist
 
 ## 📸 Demo
 
-![AI Assistant Demo](image_1.png)
+![AI Assistant Demo](image_1.jpeg)
 
 ---
 
